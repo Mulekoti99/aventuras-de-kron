@@ -1,4 +1,5 @@
-# aventuras-de-kron
+## Links do Projeto:
+- [Product Backlog e Quadro Kanban (Trello)](https://trello.com/invite/b/670ef1545f2fb2d223b7abf0/ATTI7483a99d569fe21286f6448026723a4e084CBF48/as-aventuras-de-kron-hq)
 
 # As Aventuras de Kron
 
