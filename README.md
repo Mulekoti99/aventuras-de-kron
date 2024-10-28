@@ -32,7 +32,7 @@ Este projeto é um desenvolvimento colaborativo de uma história em quadrinhos (
 4. **Conclusão**:
    - Com criatividade e astúcia, Kron supera todos os desafios, mostrando que a força nem sempre prevalece diante da inteligência.
 
-## Estrutura do Repositório:
+## Estrutura do Repositório: 
 ```plaintext
 aventuras-de-kron/
 │
